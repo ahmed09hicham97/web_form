@@ -1,0 +1,31 @@
+#form{
+    margin: 10px;
+    padding: 10px;
+    text-align: end;
+font-size: larger;
+}
+main{
+    background-color: transparent;
+    border: 3px solid #000000;
+    border-radius: 5px;
+display: flex;
+gap: 258px;
+}
+#Sign{
+    background-color: blueviolet;
+    width: 1350px;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+}
+#Sign:hover{
+    background-color: rgb(20, 181, 187);
+    transition: 0.5s;
+}
+#img{
+    width: 530px;
+    height: 530px;
+}
+body{
+    background-image: linear-gradient(315deg, rgba(228, 191, 7, 1) 8%, rgba(255, 102, 179, 1) 47%, rgba(102, 179, 255, 1) 89%);
+}
